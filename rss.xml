@@ -1,9 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Fullstack dev blog]]></title><description><![CDATA[Ismael Oliva personal blog]]></description><link>https://ioliva.dev/</link><generator>RSS for Node</generator><lastBuildDate>Sat, 30 Mar 2019 19:16:54 GMT</lastBuildDate><item><title><![CDATA[Hello... world?]]></title><description><![CDATA[When someone starts in the study of any programming language, the
-first thing that is done when entering code is to ask the machine to show…]]></description><link>https://ioliva.dev//hi-folks/</link><guid isPermaLink="false">https://ioliva.dev//hi-folks/</guid><pubDate>Tue, 30 Apr 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;When someone starts in the study of any programming language, the
-first thing that is done when entering code is to ask the machine to show a
-simple but characteristic message, “Hello World”. Machines that lack
-screen, like the Arduino, usually replace this function by turning on a LED.&lt;/p&gt;
-&lt;h2&gt;It’s origin&lt;/h2&gt;
-&lt;p&gt;The origin is not clear, although there are several theories.
-In 1901, a French weaver and merchant named Joseph Marie Jacquard who gave
-its name to the first programmable … writing&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Fullstack dev blog]]></title><description><![CDATA[Ismael Oliva personal blog]]></description><link>https://ioliva.dev/</link><generator>RSS for Node</generator><lastBuildDate>Sun, 31 Mar 2019 16:05:35 GMT</lastBuildDate><item><title><![CDATA[Hello... world?]]></title><link>https://ioliva.dev//hi-folks/</link><guid isPermaLink="false">https://ioliva.dev//hi-folks/</guid><pubDate>Tue, 30 Apr 2019 22:40:32 GMT</pubDate><content:encoded>&lt;!-- When someone starts in the study of any programming language, the --&gt;
+&lt;!-- first thing that is done when entering code is to ask the machine to show a --&gt;
+&lt;!-- simple but characteristic message, &quot;Hello World&quot;. Machines that lack --&gt;
+&lt;!-- screen, like the Arduino, usually replace this function by turning on a LED. --&gt;
+&lt;!-- ## It&apos;s origin --&gt;
+&lt;!-- The origin is not clear, although there are several theories. --&gt;
+&lt;!-- In 1901, a French weaver and merchant named Joseph Marie Jacquard who gave --&gt;
+&lt;!-- its name to the first programmable ... writing --&gt;</content:encoded></item></channel></rss>
